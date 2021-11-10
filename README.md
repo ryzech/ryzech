@@ -6,4 +6,4 @@
 - 💬 Ask me about Current Art Projects, Engineering, and Unity/UE5 Game Development :D
 - 📫 How to reach me: don't currently have an email setup, but *maybe* soon!
 - 😄 Pronouns: he/him!
-- ⚡ Fun fact: I'm Asexual, and Greyromantic! Currently taking part in [Aceweek](https://aceweek.org)!!
+- ⚡ Fun fact: I'm Asexual, and Greyromantic!
