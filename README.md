@@ -1,36 +1,24 @@
-# Hi there i'm RyzechDev! <3 👋
+<a href="https://github-readme-stats.vercel.app/api?username=ryzech&show_icons=true&theme=vue-dark%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryzech&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+</a>
+
+#
+Hey there! I'm Ryz! I mainly use C#, and Java on GitHub, but I use C++ BTS a lot aswell :D
+
+I love programming, as it's one of my favourite hobbies, but as well as that, Video Editing and Content Creation, aswell as Art (Started drawing around half a year ago) are my other hobbies!
+
+But enough about me, let's move onto my actual GitHub stuff :p
+## Main repos »
+**<a href="https://github.com/ryzech/StaffChat">StaffChat (Velocity) »** <br><img align="center" src="https://tokei.rs/b1/github/ryzech/StaffChat?category=code" /></a>
 <details>
-  <summary>Click to learn more about me!</summary>
-  <br>
+  <summary>About StaffChat</summary>
   
-  ## 🔭 What are my current projects?
-  - I’m currently working on an **EcoEnchants** fork, and my Spigot plugin [SmpCore](https://github.com/ryzech/smpcore)!
-  ## 🌱 What am I learning?
-  - I’m currently learning... idk what tho
-  ## 👯 Collaboration!
-  - I’m looking to collaborate on anything **Spigot** or **Paper** related! Forge/Fabrics mods too :)
-  ## 🤔 Things I could use help with :D
-  - I’m looking for help with learning **Java**, switched from **C++** to **C#**, then to **Java**, so i have a lot to learn :p
-  ## 📫 How to reach me:
-  - Don't currently have an email setup! But *maybe* soon!
-  ## 😄 Pronouns? 
-  - He/him!
-  ## ⚡ Fun facts!
-  - I'm Asexual, and Greyromantic-questioning(maybe the second one, idk, still questioning)!
-</details>
-<details>
-  <summary>Click to learn about my projects!</summary>
-  <br>
-  
-  ## [SmpCore](https://github.com/ryzech/SmpCore)
-  SmpCore is a private plugin I made for my SMP server on minecraft! It just adds some things i thought would be useful. (Showing how much damage an attack does, disabling join and/or leave messages, spawn command, etc) If you want to help, shoot me a message!
-  ##
+  StaffChat is a Velocity plugin I made to bridge a private chat for server staff (or for any other reason), to Discord. If you send a message starting with `@`, or enable auto with `/sctoggle`, it will send a message to a configurable Discord channel, using a Discord bot. And if you send a message in the Discord channel, it will send it in Minecraft privately!
 </details>
 
-## Github Stats :D
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryzech&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark" />
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzech&layout=compact&theme=dark" />
-</span>
+**<a href="https://github.com/ryzech/SmpCore">SmpCore (Paper) »** <br><img align="center" src="https://tokei.rs/b1/github/ryzech/SmpCore?category=code" /></a>
+<details>
+  <summary>About SmpCore</summary>
+  
+  SmpCore is a plugin I made for my Minecraft server (`legundo.mcserver.us` though its down for a reset as of now). Not anything special, but it adds some things I needed for our server (Diamond backed economy system (uses essentials economy api), report command using MySQL and a Discord bot to notify us of reports, spawn commands, announcement command, and a few other things). If you find anything useful feel free to use it :D Keep in mind though, this is made for my server, so while its configurable to be used on ANY server, it may not 100% fit your needs. If you have any issues however, feel free to open an issue, or open pull requests to add or fix things!
+</details>
