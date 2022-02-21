@@ -9,14 +9,14 @@ I love programming, as it's one of my favourite hobbies, but as well as that, Vi
 
 But enough about me, let's move onto my actual GitHub stuff :p
 ## Main repos »
-**<a href="https://github.com/ryzech/StaffChat">StaffChat (Velocity) »** <br><img align="center" src="https://tokei.rs/b1/github/ryzech/StaffChat?category=code" /></a> <a href="https://ci.ryzech.net/job/StaffChat"><img align="center" src = "https://ci.ryzech.net/buildStatus/icon?job=StaffChat"/></a>
+**<a href="https://github.com/ryzech/StaffChat">StaffChat (Velocity) »** <br><img align="center" src="https://tokei.rs/b1/github/ryzech/StaffChat?category=code" /></a> <a href="https://ci.ryzech.net/job/StaffChat"><img align="center" src = "https://teamcity.ryzech.net/app/rest/builds/buildType:(id:StaffChat_Build)/statusIcon"/></a>
 <details>
   <summary>About StaffChat</summary>
   
   StaffChat is a Velocity plugin I made to bridge a private chat for server staff (or for any other reason), to Discord. If you send a message starting with `@`, or enable auto with `/sctoggle`, it will send a message to a configurable Discord channel, using a Discord bot. And if you send a message in the Discord channel, it will send it in Minecraft privately!
 </details>
 
-**<a href="https://github.com/ryzech/SmpCore">SmpCore (Paper) »** <br><img align="center" src="https://tokei.rs/b1/github/ryzech/SmpCore?category=code" /></a> <a href="https://ci.ryzech.net/job/SmpCore"><img align="center" src = "https://ci.ryzech.net/buildStatus/icon?job=SmpCore"/></a>
+**<a href="https://github.com/ryzech/SmpCore">SmpCore (Paper) »** <br><img align="center" src="https://tokei.rs/b1/github/ryzech/SmpCore?category=code" /></a> <a href="https://ci.ryzech.net/job/SmpCore"><img align="center" src = "https://teamcity.ryzech.net/app/rest/builds/buildType:(id:SmpCore_Build)/statusIcon"/></a>
 <details>
   <summary>About SmpCore</summary>
   
