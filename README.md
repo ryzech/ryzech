@@ -1,6 +1,4 @@
-<a href="https://github-readme-stats.vercel.app/api?username=ryzech&show_icons=true&theme=vue-dark%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryzech&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
-</a>
+[![Ryzech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryzech)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 Hey there! I'm Ryz! I mainly use C#, and Java, and the ocassional Kotlin on GitHub. For my personal projects, I'm also really into Rust too! :D
