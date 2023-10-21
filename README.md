@@ -3,9 +3,9 @@
 </a>
 
 #
-Hey there! I'm Ryz! I mainly use C#, and Java on GitHub, but I use C++ BTS a lot aswell :D
+Hey there! I'm Ryz! I mainly use C#, and Java, and the ocassional Kotlin on GitHub. For my personal projects, I'm also really into Rust too! :D
 
-I love programming, as it's one of my favourite hobbies, but as well as that, Video Editing and Content Creation, aswell as Art (Started drawing around half a year ago) are my other hobbies!
+I love programming, as it's one of my favourite hobbies, but as well as that, Video Editing and Content Creation, aswell as Art (Mostly pixel art these days!) are my other hobbies!
 
 But enough about me, let's move onto my actual GitHub stuff :p
 ## Main repos »
